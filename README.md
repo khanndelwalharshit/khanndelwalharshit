@@ -16,7 +16,7 @@
 
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,sql,express,react,nodejs,tailwind,js,vite,git,github,vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,express,react,nodejs,tailwind,js,vite,git,github,vscode,postman)](https://skillicons.dev)
 
 </p>
 
