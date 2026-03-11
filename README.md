@@ -1,5 +1,11 @@
 # Hi there! I'm Harshit 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Bonjour,+World!;Hello,+World!;Namaste,+World!)
+<div align="center">
+  <img src="./your-animation.gif" alt="Bonjour Animation" />
+</div>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=47A1FF&width=435&lines=Hello,+World!;Bonjour,+le+monde!;Building+Scalable+MERN+Apps;Passionate+about+Mental+Health+Tech" alt="Typing SVG" />
-</p>
+### 🛠️ Tech Stack & Tools
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,js,vite,git,github,vscode,postman)](https://skillicons.dev)
+
+### 📊 GitHub Stats
+![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanndelwalharshit&show_icons=true&theme=radical)
